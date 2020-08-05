@@ -1,5 +1,5 @@
 DeploySoftwareUpdates.ps1
-
+	(original location found then edited from Steve Rachui: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-software-updates/ba-p/323183)
 
 Edit the UpdateControl.txt file to reflect the deployment you want (example one provided).
 Launch powershell that has rights to the MECM environment that you wish to deploy updates to. 
