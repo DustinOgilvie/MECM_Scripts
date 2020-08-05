@@ -1,0 +1,4 @@
+Below is the format of the UpdateControl.txt that the scripts read from. Each line represents a new deplyment
+
+$updateGroupName,$DeploymentTitle,$TargetCollection,$DeploymentDate,$DeploymentTime,$DeadlineDate,$DeadlineTime
+$updateGroupName,$DeploymentTitle,$TargetCollection,$DeploymentDate,$DeploymentTime,$DeadlineDate,$DeadlineTime

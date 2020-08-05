@@ -1,0 +1,6 @@
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_ALPHA,Workstation_Updates_ALPHA,2020/07/17 20:00,2020/07/17 21:00
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_BRAVO,Workstation_Updates_BRAVO,2020/07/18 20:00,2020/07/18 21:00
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_CHARLIE,Workstation_Updates_CHARLIE,2020/07/19 20:00,2020/07/19 21:00
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_DELTA,Workstation_Updates_DELTA,2020/07/23 20:00,2020/07/23 21:00
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_ECHO,Workstation_Updates_ECHO,2020/07/24 20:00,2020/07/24 21:00
+Workstation_Updates_July_2020,Workstation_Updates_July_2020_FOXTROT,Workstation_Updates_FOXTROT,2020/07/25 20:00,2020/07/25 21:00
