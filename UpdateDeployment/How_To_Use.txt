@@ -1,0 +1,19 @@
+DeploySoftwareUpdates.ps1
+
+
+Edit the UpdateControl.txt file to reflect the deployment you want (example one provided).
+Launch powershell that has rights to the MECM environment that you wish to deploy updates to. 
+Edit DeploymentSoftwareUpdates.ps1 to point to the UpdateControl.txt file.
+Run DeploymentSoftwareUpdates.ps1
+	script will ask you SiteServerName and then SiteServerCode (these can be hardcoded but I left them as a safety switch)
+Script will complete
+
+
+DeploySoftwareUpdates - Calendar_Event.ps1
+
+
+This script runs after the DeploySoftwareUpdates.ps1 script completes.
+Edit DeploySoftwareUpdates.ps1 - Calendar_Event.ps1 to point to the UpdateControl.txt file and the email address you want to create the event for.
+Launch powershell as the user you want to send the calendar event as.
+Run script.
+See calendar fill up with events.
