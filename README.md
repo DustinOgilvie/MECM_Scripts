@@ -1,2 +1,2 @@
-# MECM_Scripts
+# MEMCM_Scripts
 Scripts used for SCCM\MECM
