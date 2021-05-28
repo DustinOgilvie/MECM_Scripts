@@ -1,0 +1,2 @@
+SELECT Description0, SiteCode0, SMS_Unique_Identifier0
+FROM UnknownSystem_DISC
