@@ -1,0 +1,1 @@
+select * from vsms_R_system Where SMS_Unique_Identifier0 = 'GUID:240DCAB9-6B79-4FC4-9722-EC835E417E43'
